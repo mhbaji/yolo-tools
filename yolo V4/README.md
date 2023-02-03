@@ -1,6 +1,6 @@
 # yolo V4
 
-* repo: https://github.com/AlexeyAB/darknet.git
+> repo: https://github.com/AlexeyAB/darknet.git
 
 ## Improve Configuration
 * change line batch to batch=64

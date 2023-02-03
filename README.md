@@ -1,10 +1,10 @@
 # yolo-tools
 
 ## Annotation Detection (Bounding Box)
-* repo: https://github.com/heartexlabs/labelImg.git
+> repo: https://github.com/heartexlabs/labelImg.git
 ### Install
 * __Ubuntu__
-* pip3 install labelImg
+> pip3 install labelImg
 
 ### Use
 * Open Terminal
@@ -18,14 +18,14 @@
 ![annotation detection](./image/annotation_detection.png "annotation detection")
 
 ## Annotation Segmentation
-* repo: https://github.com/wkentaro/labelme.git
+> repo: https://github.com/wkentaro/labelme.git
 ### Install
 * __Ubuntu__
-* sudo apt-get install labelme
-* sudo pip3 install labelme
+> sudo apt-get install labelme <br />
+> sudo pip3 install labelme <br />
 
 * __Windows__
-* pip install labelme
+> pip install labelme
 
 ### Use
 * Open Terminal
