@@ -13,11 +13,11 @@
 * If you train the model to distinguish Left and Right objects as separate classes (left/right hand, left/right-turn on road signs, ...) then for disabling flip data augmentation - add flip=0 in line 17
 
 ## Format .data
-> classes = 2
-> train  = data/train.txt
-> valid  = data/test.txt
-> names = data/obj.names
-> backup = backup/
+classes = 2 <br />
+train  = data/train.txt <br />
+valid  = data/test.txt <br />
+names = data/obj.names <br />
+backup = backup/ <br />
 
 ## create file train.txt and test.txt
 > soon
