@@ -2,11 +2,11 @@
 
 ## Annotation Detection (Bounding Box)
 * repo: https://github.com/heartexlabs/labelImg.git
-__Install__
+### Install
 * __Ubuntu__
 * pip3 install labelImg
 
-__Use__
+### Use
 * Open Terminal
 * labelImg <path_to_folder> <path_to_class_label>
 * Example: labelImg . classes.txt
@@ -19,7 +19,7 @@ __Use__
 
 ## Annotation Segmentation
 * repo: https://github.com/wkentaro/labelme.git
-__Install__
+### Install
 * __Ubuntu__
 * sudo apt-get install labelme
 * sudo pip3 install labelme
@@ -27,7 +27,7 @@ __Install__
 * __Windows__
 * pip install labelme
 
-__Use__
+### Use
 * Open Terminal
 * labelme 
 * Open Dir
